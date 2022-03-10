@@ -10,5 +10,4 @@ entries:
     type: application
     urls:
     - https://sriram21.github.io/helm-chart-test/s247agent-0.1.0.tgz
-    version: 0.1.0
 generated: "2022-03-10T09:23:23.133548561Z"
